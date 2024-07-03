@@ -12,6 +12,7 @@ let primeironome = 'josefa', segundonome = 'silva'
 console.log(primeironome, segundonome)
 
 //exercicio 4 
+
 let pessoa  = {
 nome : 'Cleiton',
 idade : '18', 
